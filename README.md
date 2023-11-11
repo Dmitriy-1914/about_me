@@ -1,0 +1,1 @@
+I am Dmitry, I work as a chief engineer at a shoe factory. I am currently studying a course on programming in Python. I participate in a project on modernization and automation of equipment. I write programs in a PLC. I also program operator panels.
